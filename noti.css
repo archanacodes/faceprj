@@ -1,0 +1,33 @@
+
+body{
+    display:flex;
+    height:100vh;
+    width:200vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    margin-top: 20px;
+  }
+  .content{
+    display: flex;
+    height:70vh ;
+    width:170vh;
+  
+    justify-content: center;
+    align-items: center;
+    gap:2vh;
+  }
+  .notification-item{
+display: flex;
+height:30vh ;
+width:100vh;
+background-color: beige;
+flex-direction: column;
+justify-content: center;
+    align-items: center;
+  }

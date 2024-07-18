@@ -1,0 +1,52 @@
+body{
+    display:flex;
+    height:100vh;
+    width:200vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.subbody{
+    display:flex;
+    height:50vh;
+    width:170vh;
+    justify-content: center;
+    align-items: center;
+    background-color:lawngreen;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+}
+
+/* .serv{
+    display:flex;
+    height:20vh;
+    width:100vh;
+    justify-content: center;
+    align-items: center;
+} */
+.ser{
+    display:flex;
+    height:50vh;
+    width:50vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.l{
+    display:flex;
+    height:10vh;
+    width:60vh;
+    
+}
+.p{
+    display:flex;
+    height:30vh;
+    width:60vh;
+   
+}
+.si{
+    font-size: 4vh;
+}
+.sic{
+    font-size: 6vh;
+}

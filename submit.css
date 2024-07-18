@@ -1,0 +1,18 @@
+body{
+    display:flex;
+    height:100vh;
+    width:200vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+.subbody{
+    display:flex;
+    height:70vh;
+    width:160vh;
+    justify-content: center;
+    align-items: center;
+    background-color: darkolivegreen;
+    flex-direction: column;
+}

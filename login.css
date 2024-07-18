@@ -1,0 +1,75 @@
+body{
+    display:flex;
+    height:100vh;
+    width:200vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: lightskyblue;
+}
+.subbody{
+    display:flex;
+    height:40vh;
+    width:60vh;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+    flex-direction: column;
+}
+.hi{
+    display:flex;
+    height:5vh;
+    width:40vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.h{
+    display:flex;
+    height:10vh;
+    width:40vh;
+    justify-content: center;
+    align-items: center;  
+}
+.btn{
+    display:flex;
+    height:10vh;
+    width:40vh;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.flex{
+    display:flex;
+    height:10vh;
+    width:40vh;
+    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;  
+}
+.end{
+    display:flex;
+    height:5vh;
+    width:40vh;
+    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;  
+}
+.user{
+    font-size: 2vh;
+}
+.size{
+    height:5vh ;
+    width:20vh;
+}
+.bt{
+   
+    background-color: #007BFF;
+    height: 4vh;
+    width:10vh;
+    text-align: center;
+    color: blueviolet;
+   
+}
+
